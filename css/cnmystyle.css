@@ -1,0 +1,700 @@
+
+.neirongarea_xm {
+	margin-top: 20px; margin-bottom: 20px;
+}
+.neirongarea_xm .tbjs {
+	padding-bottom: 20px;
+}
+.neirongarea_xm .tbjs .dabiaoti2 {
+	color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;
+}
+.neirongarea_xm table {
+	color: rgb(102, 102, 102); font-size: 12px; border-bottom-color: rgb(208, 208, 208); border-left-color: rgb(208, 208, 208); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid; border-collapse: collapse; max-width: 100%; border-spacing: 0;- background-color: transparent;
+}
+.neirongarea_xm table th {
+	text-align: left; line-height: 20px; padding-right: 3px; padding-left: 3px; vertical-align: top; border-top-color: rgb(208, 208, 208); border-right-color: rgb(208, 208, 208); border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-right-style: solid;
+}
+.neirongarea_xm table td {
+	text-align: left; line-height: 20px; padding-right: 3px; padding-left: 3px; vertical-align: top; border-top-color: rgb(208, 208, 208); border-right-color: rgb(208, 208, 208); border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-right-style: solid;
+}
+.neirongarea_xm table th {
+	text-align: center; font-weight: bold; background-color: rgb(232, 232, 232);
+}
+.neirongarea_xm table th img {
+	vertical-align: middle;
+}
+.neirongarea_xm table td img {
+	vertical-align: middle;
+}
+.neirongarea_xm table td a {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+.neirongarea_xm table td a:hover {
+	color: rgb(0, 0, 0); text-decoration: underline;
+}
+.u-tabs {
+	height: 37px; font-family: "΢���ź�"; margin-top: 20px; margin-bottom: 30px;
+}
+.u-tabs li {
+	margin-bottom: 0px; margin-left: 0px; float: left; list-style-type: none;
+}
+.u-tabs li a {
+	padding: 10px 25px; text-align: center; color: rgb(102, 102, 102); font-size: 14px; display: block; background-color: rgb(221, 221, 221);
+}
+.u-tabs > li > a:hover {
+	text-decoration: none; background-color: rgb(246, 246, 246);
+}
+.u-tabs > li > a:focus {
+	text-decoration: none; background-color: rgb(246, 246, 246);
+}
+.u-tabs li.active a {
+	color: rgb(255, 255, 255); border-top-color: currentColor; border-left-color: currentColor; border-top-width: 0px; border-left-width: 0px; border-top-style: none; border-left-style: none; background-color: rgb(1, 64, 153);
+}
+.u-tabs li.active a:hover .u-tabs li.active a:focus {
+	color: rgb(255, 255, 255); border-top-color: currentColor; border-left-color: currentColor; border-top-width: 0px; border-left-width: 0px; border-top-style: none; border-left-style: none; background-color: rgb(1, 64, 153);
+}
+.col2.u-tabs li {
+	width: 50%;
+}
+.u-table {
+	width: 100%; color: rgb(102, 102, 102); font-size: 12px; border-bottom-color: rgb(221, 221, 221); border-left-color: rgb(221, 221, 221); border-bottom-width: 1px; border-left-width: 1px; border-bottom-style: solid; border-left-style: solid; border-collapse: collapse; max-width: 100%; border-spacing: 0; background-color: transparent;
+}
+.u-table tr th {
+	height: 30px; text-align: left; line-height: 30px; padding-right: 3px; padding-left: 3px; font-size: 12px; vertical-align: top; border-top-color: rgb(221, 221, 221); border-right-color: rgb(221, 221, 221); border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-right-style: solid;
+}
+.u-table tr td {
+	height: 30px; text-align: left; line-height: 30px; padding-right: 3px; padding-left: 3px; font-size: 12px; vertical-align: top; border-top-color: rgb(221, 221, 221); border-right-color: rgb(221, 221, 221); border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-right-style: solid;
+}
+.u-table tr th {
+	text-align: center; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; background-color: rgb(1, 64, 153);
+}
+.u-table a {
+	color: rgb(1, 64, 153);
+}
+.u-table a:hover {
+	color: rgb(0, 0, 0); text-decoration: underline;
+}
+.hd_mq p span {
+	padding: 3px 5px; height: 20px; color: rgb(102, 102, 102); line-height: 20px; display: inline-block; -ms-zoom: 1;
+}
+.hd_mq p a {
+	color: rgb(1, 64, 153);
+}
+.b-pagetitle {
+	text-align: center; color: rgb(1, 64, 153); font-size: 16px; margin-top: 30px; margin-bottom: 30px;
+}
+.b-coursesearch {
+	padding: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; color: rgb(102, 102, 102); font-size: 12px; margin-bottom: 30px;
+}
+.b-coursesearch form {
+	height: 60px; display: block; position: relative; -ms-zoom: 1;
+}
+.b-coursesearch .bp-sbox select {
+	display: inline-block;
+}
+.b-coursesearch .bp-sbox input {
+	border: 1px solid rgb(221, 221, 221); border-image: none; height: 26px; color: rgb(102, 102, 102); line-height: 26px; padding-right: 5px; padding-left: 5px; vertical-align: middle; display: inline-block;
+}
+.b-coursesearch .bp-sbox strong {
+	vertical-align: middle; display: inline-block;
+}
+.b-coursesearch .bp-sbox button {
+	border: 0px currentColor; border-image: none; height: 28px; color: rgb(255, 255, 255); line-height: 26px; padding-right: 10px; padding-left: 10px; vertical-align: middle; background-color: rgb(1, 64, 153);
+}
+.b-coursesearch .bp-sbox button:focus {
+	border: 0px currentColor; border-image: none;
+}
+.b-coursesearch .bp-count {
+	left: 0px; bottom: 0px; position: absolute;
+}
+.b-coursesearch .bp-count strong {
+	color: rgb(255, 0, 0);
+}
+.b-coursesearch .bp-ms {
+	right: 0px; bottom: 0px; position: absolute;
+}
+.u-select {
+	border: 1px solid rgb(221, 221, 221); border-image: none; height: 26px; color: rgb(102, 102, 102); line-height: 26px; padding-right: 5px; padding-left: 5px; vertical-align: middle; display: inline-block;
+}
+.u-select select {
+	border: 0px currentColor; border-image: none; margin-top: 4px; display: inline-block;
+}
+.b-coursehead {
+	padding: 10px; border: 1px solid rgb(221, 221, 221); border-image: none; color: rgb(102, 102, 102); font-size: 14px; margin-top: 30px;
+}
+.b-coursehead h2 {
+	height: 40px; color: rgb(51, 51, 51); line-height: 40px; font-size: 24px;
+}
+.b-coursetabs {
+	color: rgb(51, 51, 51); font-size: 14px; margin-top: 30px;
+}
+.b-coursetabs .hd_a p {
+	width: 50%; margin-right: 0px; display: block;
+}
+.b-coursetabs .hd_a p a {
+	text-align: center; display: block;
+}
+.b-coursetabs .hd_a p a:hover {
+	background-color: rgb(136, 136, 136);
+}
+.b-coursetabs .hd_a p a.hover:hover {
+	background-color: rgb(1, 64, 153);
+}
+.b-coursetabs .bc-tabscontent .u-table strong {
+	color: rgb(51, 51, 51);
+}
+.b-coursetabs .bc-tabscontent {
+	color: rgb(102, 102, 102); padding-top: 20px; font-size: 14px;
+}
+.b-coursetabs .bc-tabscontent h4 {
+	color: rgb(51, 51, 51); font-size: 14px; font-weight: bold; margin-top: 40px; margin-bottom: 10px;
+}
+.b-coursetabs .bc-tabscontent .bct-c {
+	font-size: 12px;
+}
+.b-coursetabs .bc-tabscontent .bct-c p {
+	margin-bottom: 10px;
+}
+.b-lrld {
+	margin-top: 30px;
+}
+.b-lrld table th {
+	color: rgb(1, 64, 153); background-color: rgb(222, 221, 221);
+}
+.b-lrld table td {
+	text-align: center; padding-bottom: 20px;
+}
+.b-lrld table td h3 {
+	font-size: 14px; margin-top: 15px;
+}
+.b-lrld table td p {
+	line-height: 20px;
+}
+.ls_q {
+	display: none;
+}
+.ls_w {
+	padding-left: 20px; margin-left: 15px; border-left-color: rgb(1, 64, 153); border-left-width: 1px; border-left-style: solid;
+}
+.ls_e {
+	padding-top: 26px; position: relative;
+}
+.ls_e h1 {
+	background: url("../../newStyle/images2/jinduxian-qw-d.png") no-repeat 0px 0px; left: -31px; top: 0px; height: 20px; line-height: 20px; padding-left: 30px; display: inline-block; position: absolute; z-index: 2;
+}
+.gl_t p span {
+	color: rgb(102, 102, 102); font-size: 14px; display: inline-block;
+}
+.yh_q p span {
+	color: rgb(102, 102, 102); padding-left: 15px;
+}
+.yh_e p span {
+	color: rgb(102, 102, 102); padding-left: 15px;
+}
+.yh_y p span {
+	color: rgb(102, 102, 102); padding-left: 15px;
+}
+.yh_y p span {
+	white-space: nowrap; -ms-word-break: keep-all;
+}
+.u-xxff {
+	padding-bottom: 30px; margin-bottom: 30px; border-bottom-color: rgb(221, 221, 221); border-bottom-width: 1px; border-bottom-style: dashed; position: relative; -ms-zoom: 1; opacity: 1;
+}
+.u-xxff .ux-img {
+	padding: 3px; border-radius: 3px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 289px; height: 215px; float: left;
+}
+.u-xxff .ux-img a {
+	display: block;
+}
+.u-xxff .ux-img img {
+	width: 289px; height: 215px;
+}
+.u-xxff h2 {
+	font-size: 16px; margin-bottom: 30px; margin-left: 337px;
+}
+.u-xxff h2 a {
+	color: rgb(1, 64, 153);
+}
+.u-xxff h2 a:hover {
+	text-decoration: underline;
+}
+.u-xxff .ux-i {
+	color: rgb(102, 102, 102); font-size: 14px; margin-bottom: 20px; margin-left: 337px;
+}
+.u-xxff ul {
+	padding: 0px; margin-bottom: 0px; margin-left: 337px; list-style-type: none;
+}
+.u-xxff ul li {
+	background: url("../../newStyle/images/zst.png") no-repeat 0px; height: 30px; line-height: 30px; padding-left: 20px; font-size: 14px;
+}
+.u-xxff ul li span {
+	color: rgb(153, 153, 153); float: right;
+}
+.u-xxff ul li a {
+	color: rgb(0, 102, 204); overflow: hidden; display: block; white-space: nowrap; -ms-word-break: break-all; -ms-text-overflow: ellipsis;
+}
+.u-xxff .ux-btn {
+	right: 0px; bottom: 50px; position: absolute;
+}
+.u-xxff .ux-btn a {
+	padding: 5px 15px; color: rgb(255, 255, 255); font-size: 14px; margin-left: 5px; display: inline-block; background-color: rgb(1, 64, 153);
+}
+.u-xxff .ux-btn a:hover {
+	background-color: rgb(0, 102, 204);
+}
+.menuTitle p a:hover {
+	color: rgb(1, 64, 153); background-image: url("../../newStyle/images/celan_bj_hover.png");
+}
+.menuTitle p a.hover {
+	color: rgb(1, 64, 153); background-image: url("../../newStyle/images/celan_bj_active.png");
+}
+.top {
+	height: 30px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.top_q {
+	position: relative; background-color: rgb(10, 59, 149);
+}
+.top_w {
+	padding-top: 5px; padding-left: 6px; font-size: 16px;
+}
+.top_w p {
+	margin-right: 106px;
+}
+.top_w p a:hover {
+	color: rgb(255, 255, 255);
+}
+.top_w p img {
+	display: none;
+}
+.top_r {
+	margin: 0px; top: 90px; right: 10px; position: absolute;
+}
+.top_t {
+	text-align: center; margin-top: 0px;
+}
+.top_t_c {
+	background: url("../../newStyle/images2/header-bg.jpg") repeat-y left top rgb(255, 255, 255); width: 1024px; height: 110px; text-align: left; padding-top: 15px; padding-bottom: 15px; margin-right: auto; margin-left: auto;
+}
+.sousuo {
+	width: 100px; position: relative;
+}
+.sousuo form {
+	margin-top: 2px;
+}
+.sousuo form strong {
+	left: -30px; top: 7px; color: rgb(255, 255, 255); font-size: 14px; font-weight: normal; display: inline; position: absolute;
+}
+.sousuo input[src] {
+	top: 2px; right: 5px; position: absolute;
+}
+#menu_out {
+	background: no-repeat 0px 0px; height: auto; margin-top: 0px;
+}
+#menu_in {
+	width: 1025px; padding-right: 0px;
+}
+#menu {
+	height: auto; background-color: rgb(159, 18, 20);
+}
+#nav .mainlevel {
+	width: auto; height: auto; position: relative;
+}
+#nav .mainlevel a {
+	width: 128px; height: auto; line-height: normal; letter-spacing: 3px; padding-top: 5px; padding-bottom: 5px;
+}
+#nav .mainlevel a:hover {
+	width: 128px;
+}
+#nav .mainlevel ul {
+	left: 0px; top: 31px; width: 128px; position: absolute;
+}
+#nav .mainlevel ul li a {
+	width: auto; height: auto; line-height: normal; letter-spacing: 0px;
+}
+#nav .mainlevel ul li a:hover {
+	background-position: 130px;
+}
+#nav .mainlevel li {
+	width: 128px;
+}
+.zb_eq {
+	background-position: top; width: 55px; height: 50px;
+}
+.zb_eq p {
+	width: 100%; height: 20px; line-height: 20px; font-size: 11px; display: inline-block;
+}
+.zb_eq h1 {
+	padding-top: 2px; font-size: 16px;
+}
+.zb_f {
+	background: url("../../newStyle/images/pb/icon-t.gif") no-repeat 0px 8px; padding-left: 16px;
+}
+.zb_f p {
+	width: 230px; height: 41px; line-height: 20px; overflow: hidden; margin-bottom: 10px; display: block;
+}
+.b-articlesbox {
+	width: 100%; padding-top: 30px; padding-bottom: 30px;
+}
+.b-articlesbox h4 {
+	text-align: center; color: rgb(102, 102, 102); line-height: 140%; font-size: 18px; margin-bottom: 20px;
+}
+.b-articlesbox .ba-bar {
+	text-align: center; color: rgb(136, 136, 136); padding-bottom: 10px; font-size: 12px; margin-bottom: 40px; border-bottom-color: rgb(141, 141, 141); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.b-articlesbox .ba-bar span {
+	margin-right: 15px; margin-left: 15px; display: inline-block;
+}
+.b-articlesbox .ba-bar strong {
+	font-weight: normal;
+}
+.b-articlesbox .ba-bar a {
+	color: rgb(136, 136, 136);
+}
+.b-articlesbox .ba-bar a:hover {
+	color: rgb(51, 51, 51);
+}
+.b-articlesbox .ba-body {
+	color: rgb(102, 102, 102); font-size: 13px;
+}
+.b-articlesbox .ba-body p {
+	text-align: left; line-height: 170%; margin-bottom: 20px;
+}
+body .b-articlesbox .ba-body span {
+	display: inline;
+}
+html {
+	
+}
+body {
+	background: url("../../newStyle/images2/body-bg1024.png") repeat-y top rgb(255, 255, 255); font-family: Verdana, Arial, sans-serif, "΢���ź�", Helvetica, "����"; -ms-overflow-y: scroll;
+}
+.yj_a {
+	border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.hd_m {
+	padding-bottom: 5px;
+}
+.hd_m p {
+	padding: 6px 9px;
+}
+.hd_m p a {
+	padding: 3px 5px; line-height: 20px; display: inline-block;
+}
+.hd_b {
+	width: 646px;
+}
+.yj_w p {
+	text-align: left;
+}
+.yj_w p a {
+	color: rgb(1, 64, 153); font-size: 12px;
+}
+.bk_a p {
+	font-family: Verdana, Arial, sans-serif, "微软雅黑", Helvetica, "宋体";
+}
+.yp_sty p {
+	font-size: 12px;
+}
+.yp_ity p {
+	font-size: 12px;
+}
+.sous_w {
+	width: 289px; margin-left: 10px;
+}
+.hd_d h1 {
+	margin-bottom: 10px;
+}
+.hd_d p {
+	line-height: 170%;
+}
+.hd_dd h1 {
+	margin-bottom: 10px;
+}
+.hd_dd p {
+	line-height: 170%;
+}
+.bk_v {
+	width: auto; padding-top: 20px;
+}
+.bk_v h4 {
+	text-indent: 30px; font-size: 14px; font-weight: bold;
+}
+.bk_v p {
+	padding-top: 0px; font-size: 14px; margin-bottom: 10px;
+}
+.home-news-list li p {
+	color: rgb(168, 168, 168); line-height: 18px !important;
+}
+.home-student-list li p {
+	color: rgb(168, 168, 168); line-height: 18px;
+}
+.home-student-list {
+	padding-bottom: 10px;
+}
+.zb_a a {
+	
+}
+.py_u p {
+	
+}
+.zb_ew p {
+	
+}
+#bannern #banner_listn p {
+	
+}
+.zb_f p {
+	
+}
+.zb_f span {
+	
+}
+.zb_p p {
+	
+}
+.souy {
+	width: auto; margin-right: 30px; margin-bottom: 10px; background-image: none;
+}
+.souy-row {
+	margin-right: 5px; float: left;
+}
+.souy-row strong {
+	color: rgb(102, 102, 102); font-size: 12px; font-weight: normal;
+}
+.souy-row button {
+	background: url("../../newStyle/images/sousuo_button.png") no-repeat 0px 0px rgb(0, 102, 204); border: 0px currentColor; border-image: none; width: 76px; height: 28px; vertical-align: middle; cursor: pointer;
+}
+.souy-row button span {
+	display: none;
+}
+.souy .souy-input {
+	padding: 5px; border: 1px solid rgb(221, 221, 221); border-image: none; vertical-align: middle; display: inline-block; background-color: rgb(255, 255, 255);
+}
+.souy .souy-option {
+	vertical-align: middle; display: inline-block; background-color: rgb(255, 255, 255); height: 20px;
+}
+.souy .souy-input input {
+	width: 100%; height: 16px; color: rgb(102, 102, 102); font-size: 12px;
+}
+.souy .souy-option select {
+	height: 20px; width: 100%; color: rgb(102, 102, 102); font-size: 12px;
+}
+.f-cb {
+	
+}
+.f-cb::before {
+	line-height: 0; display: table; content: "";
+}
+.f-cb::after {
+	line-height: 0; display: table; content: "";
+}
+.f-cb::after {
+	clear: both;
+}
+.line-dotted-top {
+	border-top-color: rgb(221, 221, 221); border-top-width: 1px; border-top-style: dotted;
+}
+.f-l {
+	float: left;
+}
+.f-r {
+	float: right;
+}
+.u-msbox {
+	color: rgb(102, 102, 102); line-height: 25px; text-indent: 30px; padding-top: 20px; padding-bottom: 20px; font-family: "微软雅黑"; font-size: 14px;
+}
+body .u-pbanner {
+	text-indent: 0px; margin-top: 20px;
+}
+.u-element {
+	overflow: hidden; margin-top: 30px; margin-bottom: 30px;
+}
+.u-element ul {
+	margin-bottom: 0px; margin-left: 0px; list-style-type: none;
+}
+.u-element ul li {
+	float: left;
+}
+.u-element ul li a {
+	margin-right: 10px; margin-left: 10px; display: block;
+}
+.u-element ul li span {
+	margin-right: 10px; margin-left: 10px; display: block;
+}
+.u-element ul li img {
+	width: 242px; height: 163px;
+}
+.b-twocontent {
+	padding-top: 30px; padding-bottom: 30px; font-family: sans-serif;
+}
+.b-twocontent .bt-t {
+	margin-bottom: 30px;
+}
+.b-twocontent .bt-t span {
+	background: url("../../newStyle/images/jxjy_bttp.png") no-repeat 0px 0px; width: 126px; height: 40px; color: rgb(255, 255, 255); line-height: 36px; padding-left: 20px; display: inline-block;
+}
+.u-txtbox {
+	color: rgb(102, 102, 102); font-size: 14px; margin-bottom: 30px;
+}
+.u-txtbox p {
+	line-height: 170%; text-indent: 28px; margin-bottom: 15px;
+}
+.u-itlist {
+	overflow: hidden; margin-bottom: 30px;
+}
+.u-itlist ul {
+	width: 793px; margin-left: -20px;
+}
+.u-itlist ul li {
+	margin-left: 20px; float: left; display: inline-block;
+}
+.u-itlist ul li a {
+	font-size: 14px; display: block;
+}
+.u-itlist ul li a span {
+	padding: 10px; text-align: left; color: rgb(1, 64, 153); display: block; background-color: rgb(238, 238, 238);
+}
+.u-itlist ul li a img {
+	margin: 0px; padding: 0px; display: block;
+}
+.u-itlist ul li a i {
+	padding: 5px 10px 10px; color: rgb(102, 102, 102); line-height: 150%; overflow: hidden; font-size: 12px; font-style: normal; display: block; /*background-color: rgb(238, 238, 238);*/
+}
+.u-itlist ul li a i a:hover i{
+	
+}
+.u-itlist ul li a:hover span {
+	background-color: rgb(204, 204, 204);
+}
+.u-itlist ul li a:hover i {
+	/*background-color: rgb(204, 204, 204);*/
+}
+.c3m40.u-itlist {
+	overflow: hidden;
+}
+.c3m40.u-itlist .col3 {
+	width: 813px; margin-left: -40px;
+}
+.c3m40.u-itlist .col3 li {
+	width: 231px; margin-top: 40px; margin-left: 40px;
+}
+.c3m40.u-itlist .col3 li i{
+	width: 50px;
+}
+.c3m40.u-itlist .col4 {
+	width: 813px; margin-left: -40px;
+}
+.c3m40.u-itlist .col4 li {
+	width: 360px; margin-top: 40px; margin-left: 40px;
+}
+.c3m40.u-itlist .col4 li img {
+	border: 1px solid rgb(204, 204, 204); border-image: none; margin-bottom: 5px;
+}
+.full.u-itlist ul {
+	text-align: left;
+}
+.full.u-itlist li {
+	margin-right: 0px; margin-bottom: 20px; margin-left: 20px; float: left; display: block;
+}
+.full.u-itlist .col4 li {
+	width: 178px;
+}
+.full.u-itlist .col4 li img {
+	width: 178px;
+}
+.u-link-btn {
+	margin-top: 50px; margin-bottom: 50px; display: block;
+}
+.u-link-btn-new {
+	margin-top: 50px; margin-bottom: 15px; display: block;
+}
+.home-news-list {
+	padding-right: 5px; padding-bottom: 12px; padding-left: 5px; margin-bottom: 0px;
+}
+.home-notice-list {
+	margin-left: 15px;
+}
+.home-notice-list li {
+	color:#989898;
+	font-weight:bold;
+	line-height: 20px !important; list-style-type: disc !important; list-style-position: inside;
+}
+.padding10 {
+	padding-bottom: 10px;
+}
+.notepad {
+	overflow: hidden; padding-bottom: 20px !important;
+}
+.panel .panel-head .panel2-head-title {
+	background: url("../images2/panel-head-img2.png") no-repeat 0px 2px rgb(255, 255, 255); color: rgb(9, 59, 150); line-height: normal; padding-bottom: 10px; padding-left: 25px; font-size: 18px; font-weight: 400;
+}
+
+
+@media not all
+{
+.home-notice-list li {
+	padding: 5px 0px;
+}
+}
+
+
+/*标题加粗！！*/
+.panel .panel-head .panel-head-title, .panel .panel-head .panel2-head-title, .home-news-list li a , .home-student-list li a, .home-activity-list .hal-title, .home-notice-list li.new, .home-notice-list li.new a{
+	/*font-weight: bold;*/
+	color:#666;
+	font-size: 17px;
+	font-family:Microsoft Yahei , STSong ,SimSun , NSimSun  , FangSong ;
+	}
+
+/*麻灰色背景*/
+.panel {
+	/*background-image:url(../images2/ucasBg.png);*/
+	background-color:#fff;
+}
+.panel .panel-body {
+	/*background-image:url(../images2/ucasBg.png);*/
+	background-color:#fff;
+}
+.home-notice-list a, .home-notice-list .date{color:#666;
+font-family:Microsoft Yahei;
+font-weight:100;
+}
+.hal-inf{color:#717171;}
+.home-notice-list a {
+	font-size:17px;} 
+	
+/*=========国科大新试点==========*/
+.play_btn {
+	position:relative;
+	top:-86px;
+	left:80px;
+	}
+.play_btn img{
+	position:relative;
+	width:50px;
+	height:50px;
+	left:0px;
+	top:0px;
+	}
+	.bl-photo{
+		    display: block;
+    margin-bottom: 5px;
+	}
+	.play_f{
+	 height: 34px;
+     width: 211px;
+	 padding:10px;
+	 line-height:20px;
+	 color: #444;
+	 margin-top: -66px;
+	 color: rgb(1, 64, 153);
+	 background-color: rgb(238, 238, 238);
+	}
+	.play_f a:link{
+	color:rgb(1, 64, 153); }
+	.play_f a:hover{
+	color:rgb(102,102, 102); }
+	
+.u-itlist——beifen ul li a i {
+	padding: 5px 10px 10px; color: rgb(102, 102, 102); line-height: 150%; overflow: hidden; font-size: 12px; font-style: normal; display: block; background-color: rgb(238, 238, 238);
+}
